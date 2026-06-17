@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Lise Meitner",
+  "universe": "CST · Lise Meitner (ERĒMIA · parts of whole)",
+  "emergence": "electrical",
+  "moniker": "⟦Lise Meitner:CST:959a80⟧",
+  "carbon": "lise-meitner.carbon.tiff (TIFF)",
+  "silicon": "lise-meitner.silicon.png (PNG)",
+  "seal_sha256": "dbfcf3ba8a2baf23a661f2116671a09e8b5e4b51bd1592f7cc0b057c753e192e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

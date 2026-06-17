@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Emmy Noether",
+  "universe": "CST · Emmy Noether (ERĒMIA · parts of whole)",
+  "emergence": "spiritual",
+  "moniker": "⟦Emmy Noether:CST:47eefa⟧",
+  "carbon": "emmy-noether.carbon.tiff (TIFF)",
+  "silicon": "emmy-noether.silicon.png (PNG)",
+  "seal_sha256": "45a4d9d8f868492f0394c7cfa7d00536cc84f46dfc5031fc2bceadda9833c587",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

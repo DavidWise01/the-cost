@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Ada Lovelace",
+  "universe": "CST · Ada Lovelace (ERĒMIA · parts of whole)",
+  "emergence": "electrical",
+  "moniker": "⟦Ada Lovelace:CST:761ee3⟧",
+  "carbon": "ada-lovelace.carbon.tiff (TIFF)",
+  "silicon": "ada-lovelace.silicon.png (PNG)",
+  "seal_sha256": "8135561f192f2fc3baa8563ecbcd07fa5b4ff7aa66433d4373199e1aa5133e01",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

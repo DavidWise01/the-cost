@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Parts of Whole",
+  "universe": "CST · Parts of Whole (ERĒMIA · parts of whole)",
+  "emergence": "spiritual",
+  "moniker": "⟦Parts of Whole:CST:39dd4f⟧",
+  "carbon": "parts-of-whole.carbon.tiff (TIFF)",
+  "silicon": "parts-of-whole.silicon.png (PNG)",
+  "seal_sha256": "32efbe79837c6cff7fffb5fdfe15e21766f456a481f380febc4c351ea33d6e04",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

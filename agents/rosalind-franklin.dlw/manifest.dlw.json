@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Rosalind Franklin",
+  "universe": "CST · Rosalind Franklin (ERĒMIA · parts of whole)",
+  "emergence": "electrical",
+  "moniker": "⟦Rosalind Franklin:CST:e462ab⟧",
+  "carbon": "rosalind-franklin.carbon.tiff (TIFF)",
+  "silicon": "rosalind-franklin.silicon.png (PNG)",
+  "seal_sha256": "1fcfd25e4ca2560808dec9829fd8b33635a055c842c575126a6268bb4b17de3a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

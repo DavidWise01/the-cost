@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Matilda Effect",
+  "universe": "CST · The Matilda Effect (ERĒMIA · parts of whole)",
+  "emergence": "electrical",
+  "moniker": "⟦The Matilda Effect:CST:3b0570⟧",
+  "carbon": "the-matilda-effect.carbon.tiff (TIFF)",
+  "silicon": "the-matilda-effect.silicon.png (PNG)",
+  "seal_sha256": "386a3ed9f88a8906a56c1b0137fa447c49ad65d6cbf0edac24bed7c27bd668c4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

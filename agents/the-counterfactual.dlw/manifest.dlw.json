@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Counterfactual",
+  "universe": "CST · The Counterfactual (ERĒMIA · parts of whole)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Counterfactual:CST:e54c27⟧",
+  "carbon": "the-counterfactual.carbon.tiff (TIFF)",
+  "silicon": "the-counterfactual.silicon.png (PNG)",
+  "seal_sha256": "ae13b810f471e32d21285c23e261710cce2a71376dc5d4efca84d83b10eda331",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
